@@ -30,6 +30,6 @@ public class IfStatement {
              System.exit(0);
          }
 
-         System.out.println("Hari : " + namaHari);
+         System.out.println();
     }
 }
